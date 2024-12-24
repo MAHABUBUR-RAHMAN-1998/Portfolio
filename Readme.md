@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabubur-rahman-1998&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubur-rahman-1998" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahabubur-rahman-1998" alt="mahabubur-rahman-1998" /></a> </p>
+<p align="left"> <a href="https://github.com/MAHABUBUR-RAHMAN-1998/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahabubur-rahman-1998" alt="mahabubur-rahman-1998" /></a> </p>
 
 ⚡ Fun fact **I'm Dynamic😎**
 
