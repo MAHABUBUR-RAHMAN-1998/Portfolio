@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahabubur Rahman</h1>
+<h1 align="center">Hi👋, I'm Mahabubur Rahman</h1>
 <h3 align="center">A passionate Data Analyst From Bangladesh</h3>
 
 
