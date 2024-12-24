@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahabubur Rahman</h1>
 <h3 align="center">A passionate Data Analyst From Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabubur-rahman-1998&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubur-rahman-1998" /> </p>
 
