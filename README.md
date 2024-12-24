@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahabubur-rahman-1998" alt="mahabubur-rahman-1998" /></a> </p>
 
-- ⚡ Fun fact **I'm Dynamic😎**
+⚡ Fun fact **I'm Dynamic😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
