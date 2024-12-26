@@ -12,7 +12,7 @@
 <a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/README.md"> 1. Sales Insights Project </a>
 
 <p align="left">
-<a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/README.md" target="blank"><img align="center" src="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/1.%20Sales%20Insights/Atliq%20Hardware%20Sales%20Insights_page-0002.jpg" alt="Profit Insights" height="720" width="1280" /></a>
+<a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/README.md" target="blank"><img align="center" src="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/1.%20Sales%20Insights/Atliq%20Hardware%20Sales%20Insights_page-0002.jpg" alt="Profit Insights" height="620" width="1180" /></a>
 </p>
 
 
