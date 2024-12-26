@@ -9,7 +9,8 @@
 ⚡ Fun fact **I'm Dynamic😎**
 
 <h3 align="Left">Projects Done by Me:</h3>
-[Sales Insights Project](https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/README.md)
+ **Sales Insights Project** <a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/README.md">Hidden Link</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
