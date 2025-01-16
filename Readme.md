@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Mahabubur Rahman</h1>
-<h3 align="center">A passionate Data Analyst From Bangladesh</h3>
-
+<h3 align="center">A passionate Data Scientist From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabubur-rahman-1998&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubur-rahman-1998" /> </p>
-
-⚡ Fun fact **I'm Dynamic😎**
 
 <h3 align="Left">Projects Done by Me:</h3>
 <a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/README.md"> 1. Sales Insights Project </a>
