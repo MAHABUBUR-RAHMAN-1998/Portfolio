@@ -21,6 +21,7 @@
 <a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/README.md" target="blank"><img align="center" src="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/2.%20Zomato%20Insights/Zomato%20Insights.png" alt="Desired Insights" /></a>
 </p>
 
+<a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Science-Projects/tree/main/knn%20projects"> 3. KNN Projects </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
