@@ -18,7 +18,7 @@
 
 <a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Science-Projects/tree/main/knn%20projects"> 3. KNN Projects </a>
 
-<a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Science-Projects/tree/main/Logistic%20Regression%20Projects"> 4. Logistic Regressio Projects </a>
+<a href="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Science-Projects/tree/main/Logistic%20Regression%20Projects"> 4. Logistic Regression Projects </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
